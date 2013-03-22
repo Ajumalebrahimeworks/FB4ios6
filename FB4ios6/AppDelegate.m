@@ -5,7 +5,12 @@
 //  Created by Eworks on 30/11/12.
 //  Copyright (c) 2012 Eworks. All rights reserved.
 //
+<<<<<<< HEAD
 // edited from github
+=======
+
+// edinted from xcode
+>>>>>>> // edinted from xcode
 #import <FacebookSDK/FacebookSDK.h>
 
 #import "AppDelegate.h"
